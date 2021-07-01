@@ -44,7 +44,7 @@
 
 ## Installation
 
-https://github.com/slow/nitro-sniper/wiki/Installation
+https://github.com/HieuTrungMc/nitro-sniper/wiki
 
 ## Default Configuration
 
