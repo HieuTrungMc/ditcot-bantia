@@ -15,6 +15,7 @@
       "chalk": "^4.1.0",
       "discord.js-light": "slow/discord.js-light",
       "dotenv": "github:andreialecu/dotenv#feat-multiline",
+      "node-fetch-retry": "^2.0.0",
       "erlpack": "hammerandchisel/erlpack",
       "express": "^4.17.1",
       "json5": "^2.2.0",
